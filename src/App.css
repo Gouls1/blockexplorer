@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -35,4 +35,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Home h2{
+  text-align: center;
+  color: rgb(128, 128, 128);
+  
+}
+
+.App p{
+  text-align: center;
+  color: rgb(128, 128, 128);
+  position: relative; top:-5px
+  
+}
+
+.App Navlink{
+  color: #61dafb;
 }

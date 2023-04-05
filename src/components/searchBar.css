@@ -1,0 +1,14 @@
+.search #search{
+    background-color: white;
+    width:20rem;
+    height:1.75rem;
+    border: solid;
+    border-width: 3px;
+    border-radius: 0.35rem;
+    text-indent: 4px;
+    
+}
+
+.input{
+    color: aqua;
+}

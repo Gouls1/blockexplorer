@@ -1,0 +1,30 @@
+.Address h1{
+    color: rgb(58, 25, 124);
+}
+
+.Address h2{
+    color: silver;
+}
+
+.Address .balance {
+    color: black;
+    margin-top: 1rem;;
+}
+
+.Address ul{
+    text-align: center;
+    position: relative;
+    width: 50%;
+    left:25%;
+    color: black;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0.5rem;
+    border: solid;
+    margin-top: 1rem;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 1rem;
+    background-color: rgb(135, 193, 244,0.85);
+}

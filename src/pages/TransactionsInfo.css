@@ -1,0 +1,41 @@
+.transaction-details h1 {
+    text-align: center;
+    padding-top: 1rem;
+    color: rgb(58, 25, 124);
+  }
+
+.transaction-details .details {
+        position: absolute;
+        text-align: left;
+        width: 75%;
+        left: 12.5%;
+        top:20%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        border: solid;
+        border-radius: 1rem;
+        padding: 1rem;
+        border-width: 3px;
+        border-color: black;
+        background-color: rgb(135, 193, 244,0.65);
+}
+
+.transaction-details .text{
+    font-weight: bold;
+    color: black;
+}
+
+.transaction-details .hash{
+    color: black;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0.5rem;
+    border: solid;
+    margin: 0.5rem;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 1rem;
+    background-color: rgb(135, 193, 244,0.85);
+}

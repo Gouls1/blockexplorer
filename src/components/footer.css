@@ -1,0 +1,13 @@
+.footer{
+    color: black;
+    background-image: linear-gradient(to right, rgb(168, 158, 158), rgb(66, 63, 63));
+    opacity: 85%;
+    position: fixed;
+    z-index: 150;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 8px;
+    text-align: center;
+    margin-top: 1rem;
+}
